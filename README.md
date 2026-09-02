@@ -1,2 +1,2 @@
 # elasticcap
-ElasticCap: Elastic Capability Control via Dependency-Chain Isolation and Declassification for LLM Agents
+ElasticCap: Sustainable Capability Control for Trustworthy LLM Agent Ecosystems via Dependency-Chain Isolation and Declassification
